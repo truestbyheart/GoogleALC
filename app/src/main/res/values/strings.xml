@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Google ALC</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">About ALC</string>
+    <string name="button2">Profile</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="toolbar">ALC 4.0 Phase 1</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="desc">Mug shot</string>
+    <string name="myname">Daniel Mwangila</string>
+    <string name="hint">Profile name</string>
+    <string name="Track">Track: Android</string>
+    <string name="Country">Country: Tanzania</string>
+    <string name="Email">Email: dcmwangila@gmail.com</string>
+    <string name="Phone">Phone NO.: +2557697856978</string>
+    <string name="slack">Slack Username: daniel.mwangila</string>
+</resources>
